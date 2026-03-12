@@ -80,7 +80,7 @@ Check out the [pd.read_excel()](https://pandas.pydata.org/docs/reference/api/pan
 - Use a Jupyter notebook to organize the text, code, and visualizations that can be delivered to the customer.
 
 - Present your output as slides. 
-  - Please create your slides in your Google Drive [Muesli EDA Project Folder](https://drive.google.com/drive/folders/1Q6ZD62JsfhvMze5YTT2B9ZYVePwD_j9p). 
+  - Please create your slides in your Google Drive [Muesli EDA Project Folder](https://drive.google.com/drive/folders/1UTuyLdOokR1cOvZxq698ZWePQu2mhP2g?usp=share_link). 
   - Discuss why you have done things, what your intentions were, and how you technically developed the analysis, including screenshots of notebook code and output as necessary. 
   - The expectation is a 10-15 minutes presentation to the class. 
   - Think of it as a stakeholder presentation with technical elements.
