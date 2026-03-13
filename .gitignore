@@ -9,6 +9,7 @@ __pycache__/
 # Data
 data.zip
 data_raw_copy.xlsx
+.xlsx
 
 # Distribution / packaging
 .Python
