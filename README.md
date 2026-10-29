@@ -75,8 +75,8 @@ These both repositories are not available for GitHub users outside of the Spiced
 
 
 ## Repo Structure
-* (`assignment.md`)[https://github.com/skibodaria/muesli-project/blob/main/Assignment.md] is a list of instructions for the project, including the main deliverables and questions + KPI targets;
-* (`eda_checklist.pdf`)[https://github.com/skibodaria/muesli-project/blob/main/EDA_Checklist.pdf] serves as a reminder of the main steps at this stage of analysis;
-* (`/data_csv`)[https://github.com/skibodaria/muesli-project/tree/main/data_csv] provides with the data on the Muesli company ordering and delivery process;
-* (`/analysis`)[https://github.com/skibodaria/muesli-project/tree/main/analysis] contains an [`eda_analysis.ipynb`](https://github.com/skibodaria/muesli-project/blob/main/analysis/eda_analysis.ipynb) with all the stages described above, from data loading to formulating conclusions;
-* (`/presentation`)[https://github.com/skibodaria/muesli-project/tree/main/presentation]` provides materials in `.pptx` format, being presented and discussed in the class.
+* [`assignment.md`(https://github.com/skibodaria/muesli-project/blob/main/Assignment.md) is a list of instructions for the project, including the main deliverables and questions + KPI targets;
+* [`eda_checklist.pdf`](https://github.com/skibodaria/muesli-project/blob/main/EDA_Checklist.pdf) serves as a reminder of the main steps at this stage of analysis;
+* [`/data_csv`](https://github.com/skibodaria/muesli-project/tree/main/data_csv) provides with the data on the Muesli company ordering and delivery process;
+* [`/analysis`](https://github.com/skibodaria/muesli-project/tree/main/analysis) contains an [`eda_analysis.ipynb`](https://github.com/skibodaria/muesli-project/blob/main/analysis/eda_analysis.ipynb) with all the stages described above, from data loading to formulating conclusions;
+* [`/presentation`](https://github.com/skibodaria/muesli-project/tree/main/presentation) provides materials in `.pptx` format, being presented and discussed in the class.
