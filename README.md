@@ -75,8 +75,8 @@ These both repositories are not available for GitHub users outside of the Spiced
 
 
 ## Repo Structure
-* `[assignment.md](assignment.md)` is a list of instructions for the project, including the main deliverables and questions + KPI targets;
-* `[eda_checklist.pdf](eda_checklist.pdf)` serves as a reminder of the main steps at this stage of analysis;
-* `[/data_csv](data_csv)` provides with the data on the Muesli company ordering and delivery process;
-* `[/analysis](analysis)` contains an `[eda_analysis.ipynb](analysis/eda_analysis.ipynb)` with all the stages described above, from data loading to formulating conclusions;
-* `[/presentation]` provides materials in `.pptx` format, being presented and discussed in the class.
+* `assignment.md)` is a list of instructions for the project, including the main deliverables and questions + KPI targets;
+* `eda_checklist.pdf` serves as a reminder of the main steps at this stage of analysis;
+* `/data_csv` provides with the data on the Muesli company ordering and delivery process;
+* `/analysis` contains an `[eda_analysis.ipynb](analysis/eda_analysis.ipynb)` with all the stages described above, from data loading to formulating conclusions;
+* `/presentation` provides materials in `.pptx` format, being presented and discussed in the class.
