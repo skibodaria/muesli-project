@@ -3,11 +3,11 @@
 This project was developed by the Data Analytics team at [Spiced Academy / neuefische GmbH](https://www.spiced-academy.com/en) and is centered around exploratory data analysis [(EDA)](EDA_Checklist.pdf) and statistical analysis techniques. It is performed as a group work and is delivered after the second teaching module of the [Data Analytics Bootcamp](https://www.spiced-academy.com/en/program/data-analytics).
 
 ## Topic and Task
-The task was to complete a case study and answer specific questions, coming from a stakeholder by performing data analysis and visualisation.  The detailed [task description](assignment.md) is provided.
+The task was to complete a case study and answer specific questions, coming from a stakeholder by performing data analysis and visualisation.  The detailed [task description](https://github.com/skibodaria/muesli-project/blob/main/Assignment.md) is provided.
 
 ## Main Steps:
 1. **Data Load & Read**: the data was unpacked from a `.zip` file and read from `.xlsx` file tabs. Each tab was saved as an independent `.csv` files.
-> Normally, `.csv` files are not shared on GitHub but for the learning purpouses and reproducibility the raw files and the clean versions are saved in the folder [/data_csv](/muesli-project/data_csv).
+> Normally, `.csv` files are not shared on GitHub but for the learning purpouses and reproducibility the raw files and the clean versions are saved in the folder [/data_csv](https://github.com/skibodaria/muesli-project/tree/main/data_csv).
 
 2. **Data Cleaning & Merging**: each of the four separated tables was examined and cleaned (e.g., data formats, duplicated values, etc.). Each tab was then was saved for archiving and iterative research design purposes. After the four tables were merged together to be able to picture and trace the Muesli company workflow -- from an order to warehouse to logistics company to actual delivery.
 
@@ -75,8 +75,8 @@ These both repositories are not available for GitHub users outside of the Spiced
 
 
 ## Repo Structure
-* `assignment.md)` is a list of instructions for the project, including the main deliverables and questions + KPI targets;
-* `eda_checklist.pdf` serves as a reminder of the main steps at this stage of analysis;
-* `/data_csv` provides with the data on the Muesli company ordering and delivery process;
-* `/analysis` contains an `[eda_analysis.ipynb](analysis/eda_analysis.ipynb)` with all the stages described above, from data loading to formulating conclusions;
-* `/presentation` provides materials in `.pptx` format, being presented and discussed in the class.
+* `(assignment.md)[https://github.com/skibodaria/muesli-project/blob/main/Assignment.md]` is a list of instructions for the project, including the main deliverables and questions + KPI targets;
+* `(eda_checklist.pdf)[https://github.com/skibodaria/muesli-project/blob/main/EDA_Checklist.pdf]` serves as a reminder of the main steps at this stage of analysis;
+* `(/data_csv)[https://github.com/skibodaria/muesli-project/tree/main/data_csv]` provides with the data on the Muesli company ordering and delivery process;
+* `(/analysis)[https://github.com/skibodaria/muesli-project/tree/main/analysis]` contains an `[eda_analysis.ipynb](https://github.com/skibodaria/muesli-project/blob/main/analysis/eda_analysis.ipynb)` with all the stages described above, from data loading to formulating conclusions;
+* `(/presentation)[https://github.com/skibodaria/muesli-project/tree/main/presentation]` provides materials in `.pptx` format, being presented and discussed in the class.
